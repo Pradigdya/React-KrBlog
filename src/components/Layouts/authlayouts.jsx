@@ -1,5 +1,5 @@
-import Footer from "../Fragments/footer";
-import Header from "../Fragments/header";
+import Footer from "../Elements/footer";
+import Header from "../Elements/header";
 
 const AuthLayouts = ({ children }) => {
   return (
