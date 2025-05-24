@@ -27,6 +27,13 @@ const articleslist = [
     date: "01-02-2025",
     description: "Lucu Banget Ancok",
   },
+  {
+    id: 5,
+    image: "/Images/2.png",
+    title: "Berita Terbaru",
+    date: "05-03-2025",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, magnam minus est eum dolores a reprehenderit aspernatur explicabo non. Hic esse recusandae quisquam. Eius, adipisci non sit vero neque enim?",
+  },
 ];
 
 export default articleslist;
